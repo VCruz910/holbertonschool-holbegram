@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "222502788770",
+    "project_id": "holbegram-ded04",
+    "storage_bucket": "holbegram-ded04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222502788770:android:8fb87395e4e33eba3b41fb",
+        "android_client_info": {
+          "package_name": "com.vcruz.holbegram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq6UrYMXYAheaxv2G60tbTG9s_OlfORqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
